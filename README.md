@@ -1,1 +1,1 @@
-# Clasification-Emnist-Letters-With-HOG-and-SVM
+# Classification-Emnist-Letters-With-HOG-and-SVM
