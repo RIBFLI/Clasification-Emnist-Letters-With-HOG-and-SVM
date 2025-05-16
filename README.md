@@ -6,10 +6,10 @@ Proyek ini bertujuan untuk melakukan klasifikasi citra berbasis fitur HOG (Histo
 
 ## 📂 1. Dataset Preparation
 
-- Menggunakan **2600 data citra grayscale** dengan ukuran 28x28 piksel.
+- Menggunakan **2600 Data** dengan ukuran 28x28 piksel.
 - Setiap **kelas memiliki 100 data** (balanced).
 - Dataset diacak sebelum diproses.
-- Data dibagi menggunakan **Leave-One-Out Cross Validation (LOOCV)** dengan:
+- Data dibagi menggunakan dengan:
   - **80% untuk training**
   - **20% untuk testing**
 - Visualisasi gambar dilakukan sebelum dan sesudah ekstraksi fitur.
