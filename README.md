@@ -1,6 +1,6 @@
 # HOG Feature Extraction and SVM Classification
 
-Proyek ini bertujuan untuk melakukan klasifikasi citra berbasis fitur HOG (Histogram of Oriented Gradients) dan algoritma Support Vector Machine (SVM). Dataset terdiri dari 2600 gambar dengan 26 kelas, masing-masing 100 sampel (seimbang).
+Proyek ini bertujuan untuk melakukan klasifikasi karakter tulisan tangan berbasis fitur HOG (Histogram of Oriented Gradients) dan algoritma Support Vector Machine (SVM). Dataset terdiri dari 2600 gambar dengan 26 kelas, masing-masing 100 sampel (seimbang).
 
 ---
 
