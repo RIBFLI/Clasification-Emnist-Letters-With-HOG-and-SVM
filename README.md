@@ -56,7 +56,7 @@ Contoh visualisasi fitur HOG dibandingkan gambar asli:
 
 | Original Image | HOG Visualization |
 |----------------|-------------------|
-| ![original](HOG.png) | ![hog](HOG.png) |
+| ![original](original.png) | ![hog](HOG.png) |
 
 > *Gambar visualisasi dihasilkan langsung dari hasil `skimage.feature.hog` dengan opsi `visualize=True`.*
 
